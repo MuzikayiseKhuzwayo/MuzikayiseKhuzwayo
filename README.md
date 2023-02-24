@@ -4,7 +4,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Software Development || Software Engineering || Web Development(ReactJS)
 -----------------------------------------------------------
 - 🌍 I'm based in Gauteng, South Africa
-- 🔭 I’m currently working on Getting a Qualification as a Software Engineer with ALX
+- 🔭 I’m currently working on Getting a Qualification as a Software Engineer
 - 🌱 I’m currently learning the C programming language and Unix
 - 👯 I’m looking to collaborate on Web development related projects, especially using React
 - 🧠 I'm currently learning Frontend Web Development with ReactJS, and will progressively broaden the scope with the MERN Stack
